@@ -17,16 +17,16 @@
     },
 
     "SESSION_ID": {
-      "description": "Enter session-id here",
+      "description": "PRABATH-MD~hxVPboiFHDI2sE1",
       "required": false
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "meries580.",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth-token here.",
+      "description": "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.",
       "required": true
     }   
 },
